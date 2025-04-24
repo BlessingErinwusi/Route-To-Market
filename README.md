@@ -11,12 +11,19 @@ Each row shows a line item as a component of an order.
 
 The dataset contains 15 columns and 2046 rows. The details of the columns include:
 Fields Definitions
+
 OrderedAt Date The Order Date
+
 Order No. The Unique Order Number for Each Order
+
 Customer Name Name Of The Retail Outlet
+
 Producer (The Line Item Producer)
+
 Product The Line Item Product
+
 Category Group (The Broad Category of the Line Item)
+
 Category (The Line Item Product Category)
 Variant The Line Item Stock Keeping Unit (SKU)
 Quantity (The Quantity Of The Line Item (SKU))

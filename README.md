@@ -25,13 +25,21 @@ Product The Line Item Product
 Category Group (The Broad Category of the Line Item)
 
 Category (The Line Item Product Category)
+
 Variant The Line Item Stock Keeping Unit (SKU)
+
 Quantity (The Quantity Of The Line Item (SKU))
+
 Unit Price (The Unit Price Of The Line Item (SKU))
+
 shippingStatus (The Fulfilment Status Of The Line Item (SKU))
+
 Delivery Date (The Date Delivery Was Attempted)
+
 Delivery Agent (The Delivery Agent The Order Was Assigned To)
+
 Customer Type (The Classification of the customers)
+
 Order Channel (The Channel The Order Was Raised Through)
 
 From this dataset, we answer crucial questions associated with the sales and Orders at Trade Depot. 

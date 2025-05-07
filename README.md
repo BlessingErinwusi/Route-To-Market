@@ -101,3 +101,9 @@ to get the Value then =SUM($K$3:$K$2048) to get the Total Value sum
 
 ## Question 1 - Dashboard
 ![image](https://github.com/user-attachments/assets/5439ba41-47dc-42ea-8cd4-fb0daf2b2858)
+
+#2) Answer the following questions using any charts of your choice for visualisation (Show working for all answers provided)
+
+
+
+
